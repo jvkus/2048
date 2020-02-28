@@ -1,3 +1,9 @@
+# About this fork
+
+This fork was created from hczhcz's fork of gabriellecirulli's 2048 project. I enjoyed hczhcz's version of 2048, which they named 20ez, and wanted to try a version of 20ez with a much bigger grid just for kicks because I like big scores.
+
+## Below is the original README from gabriellecirulli's 2048 repo.
+
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
